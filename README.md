@@ -4,7 +4,7 @@
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iannzin30/)
    
 
-   ![Iann Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=iann-lucas&show_icons=true&theme=dark)
+   ![Iann Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=iannlucasz&show_icons=true&theme=dark)
 
 ## Tecnologias que eu mais uso
 
